@@ -12,4 +12,7 @@
     <string name="t3">textStyle 속성</string>
     <string name="t4">typeface 속성</string>
     <string name="t5">singleLine 속성 singleLine 속성 singleLine 속성 singleLine 속성 singleLine 속성 singleLine 속성 singleLine 속성 singleLine 속성 singleLine 속성</string>
+    <string name="te1">TextView 연습 1</string>
+    <string name="te2">TextView 연습 2</string>
+    <string name="te3">TextView 연습 3</string>
 </resources>
